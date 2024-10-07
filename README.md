@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @s6-c
-
-View My Projects!
+For Profile, Go To [https://s6-c.github.io](https://s6-c.github.io)
 
 <!---
 s6-c/s6-c is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
